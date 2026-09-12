@@ -1,1 +1,2 @@
 Maximum students allowed: 30
+Location: Room 101
